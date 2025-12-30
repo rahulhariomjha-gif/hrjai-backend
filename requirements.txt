@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pillow
+pypdf2
+pdf2image
+opencv-python
+ffmpeg-python
+whisper
+tiktoken
+python-dotenv
+razorpay
+boto3
+motor
+passlib
+bcrypt
